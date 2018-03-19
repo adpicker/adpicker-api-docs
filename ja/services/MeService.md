@@ -1,12 +1,12 @@
-# AccountService
-AccountServiceは、アカウントに関する処理を提供します。  
-**事前に[AuthService](../AuthService.md)にて認証を行い、Authrizationヘッダにアクセストークンを設定していることが必要です。**
+# MeService
+MeServiceは、アカウントに関する処理を提供します。  
+**事前に[AuthService](./AuthService.md)にて認証を行い、Authrizationヘッダにアクセストークンを設定していることが必要です。**
 
 ## エンドポイント
 | environment | endpoint |
 |---|---|
-| production   | https://api.adpicker.net/v1/account|
-| development  | https://dev.api.adpicker.net/v1/account|
+| production   | https://api.adpicker.net/v1/me|
+| development  | https://dev.api.adpicker.net/v1/me|
 
 ## GET
 ### リクエスト
