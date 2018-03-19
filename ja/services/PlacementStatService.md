@@ -1,6 +1,6 @@
 # PlacementStatService
 PlacementStatServiceは、メディアの計測データに関する処理を提供します。  
-**事前に[AuthService](../AuthService.md)にて認証を行い、Authrizationヘッダにアクセストークンを設定していることが必要です。**
+**事前に[AuthService](./AuthService.md)にて認証を行い、Authrizationヘッダにアクセストークンを設定していることが必要です。**
 
 ## エンドポイント
 | environment | endpoint |
